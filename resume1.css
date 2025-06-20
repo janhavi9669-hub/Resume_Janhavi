@@ -1,0 +1,28 @@
+body.dark-mode {
+  background-color: #0e0d0d !important;
+  color: #e0e0e0 !important;
+}
+
+.dark-mode .card {
+  background-color: #1e1e1e;
+  color: #f1f1f1;
+}
+
+.dark-mode .navbar,
+.dark-mode footer {
+  background-color: #9d9bf4 !important;
+}
+
+.dark-mode a {
+  color: #aad8ff;
+}
+
+.dark-mode .btn {
+  background-color: #444 !important;
+  color: #fff !important;
+  border: none;
+}
+
+.dark-mode .btn:hover {
+  background-color: #666 !important;
+}
